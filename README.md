@@ -5,7 +5,7 @@ Software tools and Jupyter notebooks for running asteroid orbit labs with the PD
 ## Quick Links
 
 - [Example Student Investigation Notebook](https://colab.research.google.com/drive/1-k7QQfVbatw0_7PqlebSHl_Dphbn2kiK?usp=sharing)
-- [Example Facilitator Image Generation Notebook](https://colab.research.google.com/drive/1LTrjRjsOBlfpTeiKi8TaiWbeBhOCeynH?usp=sharing)
+- [Example Facilitator Image Generation Notebook](https://colab.research.google.com/drive/11dHGHu3LDCIluCfDFrPMQ4KY56arjtZj?usp=sharing)
 
 ## Installation
 
