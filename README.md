@@ -20,12 +20,12 @@ conda activate pdp
 Then, clone this repository and install it and its dependencies:
 
 ```sh
-git clone https://github.com/lfinnerty/PDP-Asteroid-Orbits.git
+git clone https://github.com/ekaufman5/PDP-Asteroid-Orbits.git
 cd PDP-Asteroid-Orbits
 pip install -e .
 ```
 
-Run the tests to verify your installation:
+Run the tests to verify your installation (these may not work and that's okay):
 
 ```sh
 pytest
