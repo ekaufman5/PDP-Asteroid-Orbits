@@ -48,10 +48,10 @@ class OrbitInvestigation:
     # base_path: str = "/content/observations_2024/", 
     def __init__(
         self, 
-        base_path: str = "/content/observations_2025/", 
+        base_path: str = "/content/observations_2026/", 
         group: str = "test",
         hf_token: Optional[str] = None,
-        repo_id: str = "hartnellpdp/observations_2025"
+        repo_id: str = "hartnellpdp/observations_2026"
     ):
         """Initialize the investigation manager.
         
